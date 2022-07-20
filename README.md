@@ -1,5 +1,5 @@
 # OSWA Experience And Exam Preparation Guide
-My Offensive Security OSWA certification experience and my personal opinion what helps in preparation for the exam 
+My Offensive Security OSWA certification experience and my personal opinion what helps in preparation for the exam. You think I missed something or have a question? Just reach out by creating an issue or sending me message on [Twitter](https://twitter.com/rnd_infosec_guy)
 
 ## About OSWA/Web-200
 ### Content
