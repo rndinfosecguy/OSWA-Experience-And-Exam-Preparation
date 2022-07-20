@@ -34,8 +34,8 @@ Now you should have a fully interactive shell. This sometimes is needed when you
 - one word regarding `SQLMap`: this tool is allowed during the exam
 - however, in my experience `SQLMap` often fails even if there is an SQL-Injection
 - I usually use `SQLMap` only after I identified the vulnerability manually and only use it to exfiltrate data when manual exfiltration is to expensive
-- Therefore I parameterize `SQLMap` in a way it does not send useless requests to the target, because the tool is noisy as hell and (depending on the configuration) influences the integrity of the database
-- When you identified an injection it is cruical that you have a good cheat sheet available, so you can exfiltrate data in a copy paste style
+- therefore I parameterize `SQLMap` in a way it does not send useless requests to the target, because the tool is noisy as hell and (depending on the configuration) influences the integrity of the database
+- when you identified an injection it is cruical that you have a good cheat sheet available, so you can exfiltrate data in a copy paste style
   - https://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet
   - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection
   - https://portswigger.net/web-security/sql-injection/cheat-sheet
@@ -46,7 +46,7 @@ Now you should have a fully interactive shell. This sometimes is needed when you
 
 ## XML External Entity Attack
 - often overlooked
-- Know how to idenfitiy this kind of vulnerability
+- know how to idenfitiy this kind of vulnerability
 - every point where the application might parse XML is a potential dangerous sink where you can test for it
 - get used to how to read files by exploiting an XXE attack "visibly" and blind
   - https://portswigger.net/web-security/xxe
@@ -59,7 +59,7 @@ Now you should have a fully interactive shell. This sometimes is needed when you
 - you need to identify what kind of technology/framework is used on the target machine
 - then it is a good idea to perform some basic tests to identify if templates are used at all and the website is vulnerable
 - `seclists` provides a good wordlist to detect SSTIs: `/usr/share/seclists/Fuzzing/template-engines-expressions.txt`
-- The following picture gives an overview what template engine might be in use if a certain test succeeded: https://portswigger.net/web-security/images/template-decision-tree.png
+- the following picture gives an overview what template engine might be in use if a certain test succeeded: https://portswigger.net/web-security/images/template-decision-tree.png
 
 ### exploit
 - the exploitation impact ranges from XSS to RCE depending on the template engine used
