@@ -1,5 +1,5 @@
 # Syllabus Related Hints
-In this section I will pick a few topics out of the syllabus and give some technical hints. If you want me to give hints for other topics, create an issue.
+In this section I will pick a few topics out of the syllabus and give some technical hints. If you want me to give hints for other topics, create an issue. It is important to understand that my hints only make sense if you carefully read and complete the course material. All links I provide to external resources should be considered as additional literature which are no replacement for the material provided by offsec. The offsec course material is gold imho. 
 
 ## Tools
 ### Wordlists
