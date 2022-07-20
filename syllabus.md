@@ -65,7 +65,7 @@ Now you should have a fully interactive shell. This sometimes is needed when you
 - the exploitation impact ranges from XSS to RCE depending on the template engine used
 - RCEs for apache freemarker, twig and pug/jade: https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
 
-## Remote Code Execution
+## Command Injection
 Try to think what the target application might do in the backend when using features of the website. Does the web application maybe call an external program? When you identified a potential injection point you usually have to escape from the original command and inject your own.
 
 ### Command Seperators
