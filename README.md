@@ -45,7 +45,7 @@ It is difficult to recommend specific Proving Grounds boxes to prepare for the e
 - Hawat
 - Interface
 
-Even if Hack The Box (HTB) machines require privilege escalation and this is out of scope for the OSWA I also would recommend some of the boxes for the exam prepapration.
+Even if Hack The Box (HTB) machines require privilege escalation and this is out of scope for the OSWA I also would recommend some of the boxes for the exam preparation.
 
 - [Pilgrimage](https://www.hackthebox.com/machines/pilgrimage)
 - [PC](https://www.hackthebox.com/machines/pc)
