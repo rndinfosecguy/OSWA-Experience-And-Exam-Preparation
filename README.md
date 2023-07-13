@@ -34,4 +34,24 @@ I would consider myself as a pentester with some decent level of experience. But
 - be consequent: if you realize you are totally stuck, switch the target and come back later
 - make screenshots of every part of your exploitation steps in the moment you are successfully exploiting the target (you will need them during the reporting part)
 
+### Proving Grounds and Hack The Box Recommendations
+It is difficult to recommend specific Proving Grounds boxes to prepare for the exam, as everyone is different. However, here are some boxes I would recommend to solve to get some practice.
+
+- FunBoxEasyEnum
+- Inclusiveness
+- Potato
+- Shakabra
+- Sumo
+- Hawat
+- Interface
+
+Even if Hack The Box (HTB) machines require privilege escalation and this is out of scope for the OSWA I also would recommend some of the boxes for the exam prepapration.
+
+- [Pilgrimage](https://www.hackthebox.com/machines/pilgrimage)
+- [PC](https://www.hackthebox.com/machines/pc)
+- [Soccer](https://www.hackthebox.com/machines/Soccer)
+- [Precious](https://www.hackthebox.com/machines/Precious)
+
+If you want to have a look at WriteUps a friend of mine and me made together have a look at our [blog](https://ha-l0.github.io/)
+
 ### [Syllabus related hints](https://github.com/rndinfosecguy/OSWA-Experience-And-Exam-Preparation/blob/main/syllabus.md)
